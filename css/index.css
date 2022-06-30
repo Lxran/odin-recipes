@@ -1,0 +1,12 @@
+body {
+  background-color: #cfd1d0;
+  text-align: center;
+}
+
+.splash {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
