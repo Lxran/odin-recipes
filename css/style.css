@@ -14,7 +14,8 @@ body {
   width: max(300px, 10em);
 }
 
-.recipe-column {
+.recipe-column, .splash-links {
   display: inline-block;
   list-style: none;
+  padding-left: 0;
 }
